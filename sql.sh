@@ -4,7 +4,6 @@
 #
 #
 # Created: George Melroy D'Souza
-# If you want to run it in Windows download Cygwin
 # Accept the params ./sql.sh db_folder db_username db_hostname db_name db_password
 #
 #
